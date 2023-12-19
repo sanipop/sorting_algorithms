@@ -58,7 +58,7 @@ void merge_sort_recursive(int *subarr, int *buff, size_t front, size_t back)
 }
 
 /**
- * merge_sort - Arrange from the lowest 
+ * merge_sort - Arrange from the lowest
  *              through mege sort algorith.
  * @array: the input array.
  * @size: mem allocate of the array input.
