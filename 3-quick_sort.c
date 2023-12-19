@@ -83,8 +83,8 @@ void lomuto_sort(int *array, size_t size, int left, int right)
  * @array: the value of the array.
  * @size: memory allocated to array.
  *
- * Description: swap and print the value. 
- *              
+ * Description: swap and print the value.
+ *
  */
 void quick_sort(int *array, size_t size)
 {
