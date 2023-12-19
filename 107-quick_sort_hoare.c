@@ -83,7 +83,7 @@ void hoare_sort(int *array, size_t size, int left, int right)
  * @array: the input array.
  * @size: memory allocated to array.
  *
- * Description: Uses hte given algorithm. 
+ * Description: Uses hte given algorithm.
  * print hte value of the sort.
  */
 void quick_sort_hoare(int *array, size_t size)
