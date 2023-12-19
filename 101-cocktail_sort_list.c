@@ -31,7 +31,7 @@ void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker)
 }
 
 /**
- * swap_node_behind - function to swap node 
+ * swap_node_behind - function to swap node
  *                    at the point behind.
  * @list: a pointer to the linked list.
  * @tail: the end point of the list.
