@@ -8,7 +8,7 @@
  * @SPADE: the value of spade.
  * @HEART: the value of hartd.
  * @CLUB: the  value of club.
- * @DIAMOND the value of diamond.
+ * @DIAMOND: the value of diamond.
  */
 typedef enum kind_e
 {
